@@ -1,0 +1,14 @@
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\bin\Debug\maskproject.exe.config
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\bin\Debug\maskproject.exe
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\bin\Debug\maskproject.pdb
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\maskproject.csprojAssemblyReference.cache
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\MainWindow.g.cs
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\App.g.cs
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\maskproject_MarkupCompile.cache
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\maskproject_MarkupCompile.lref
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\MainWindow.baml
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\maskproject.g.resources
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\maskproject.Properties.Resources.resources
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\maskproject.csproj.GenerateResource.cache
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\maskproject.exe
+D:\PSB\toy\mask\maskCheck\maskproject\maskproject\obj\Debug\maskproject.pdb
